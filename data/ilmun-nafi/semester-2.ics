@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Semester 2
+X-WR-TIMEZONE:Asia/Dhaka
+X-WR-CALDESC:2024 Semester 2 classes
+BEGIN:VTIMEZONE
+TZID:Asia/Dhaka
+X-LIC-LOCATION:Asia/Dhaka
+BEGIN:STANDARD
+TZOFFSETFROM:+0600
+TZOFFSETTO:+0600
+TZNAME:+06
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Dhaka:20240427T210000
+DTEND;TZID=Asia/Dhaka:20240427T220000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+DTSTAMP:20240428T105747Z
+UID:2etdomtauaviqb3olv0j0ervnk@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/tem-uoso-oon
+CREATED:20240428T073734Z
+DESCRIPTION:সেমিস্টার ২ - উস্তাদ উসমান গণি আসারী\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: 
+ https://meet.google.com/tem-uoso-oon\nAuthor: IlumunNafi.\n-::~:~::~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240428T073734Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:আক্বিদাহ ২
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Dhaka:20240428T190000
+DTEND;TZID=Asia/Dhaka:20240428T200000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+DTSTAMP:20240428T105747Z
+UID:4gcfbuiq7blr9bua2lmii1k0la@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/tem-uoso-oon
+CREATED:20240428T074105Z
+DESCRIPTION:সেমিস্টার ২ - উস্তাদা আয়িশা সিদ্দিকা\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: 
+ https://meet.google.com/tem-uoso-oon\nAuthor: IlumunNafi.\n-::~:~::~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240428T074105Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:নাজেরা ও কুরআন (বোন)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Dhaka:20240401T210000
+DTEND;TZID=Asia/Dhaka:20240401T220000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DTSTAMP:20240428T105747Z
+UID:6nmc7sgjepdicrt712rva8ejdt@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/tem-uoso-oon
+CREATED:20240428T074258Z
+DESCRIPTION:সেমিস্টার ২ - উস্তাদ উসমান গণি আসারী\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: 
+ https://meet.google.com/tem-uoso-oon\nAuthor: IlumunNafi.\n-::~:~::~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240428T074311Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:আরবি ব্যাকরণ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Dhaka:20240430T210000
+DTEND;TZID=Asia/Dhaka:20240430T220000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DTSTAMP:20240428T105747Z
+UID:61l32jc77qmovk65246h45sjp1@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/tem-uoso-oon
+CREATED:20240428T074614Z
+DESCRIPTION:সেমিস্টার ২ - উস্তাদ আল আমিন সাকি\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: htt
+ ps://meet.google.com/tem-uoso-oon\nAuthor: IlumunNafi.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240428T074614Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:হাদিস শিক্ষা ২
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Dhaka:20240501T210000
+DTEND;TZID=Asia/Dhaka:20240501T220000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DTSTAMP:20240428T105747Z
+UID:1itsduopal8tum4knk31hcsucl@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/tem-uoso-oon
+CREATED:20240428T074650Z
+DESCRIPTION:সেমিস্টার ২ - উস্তাদ হুমাইদ সাঈদ কাসেমী - হানাফি ফিক্বহ\n\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin
+  with Google Meet: https://meet.google.com/tem-uoso-oon\nAuthor: IlumunNafi.\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-
+LAST-MODIFIED:20240428T074731Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:হানাফি ফিক্বহ ২
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Dhaka:20240501T210000
+DTEND;TZID=Asia/Dhaka:20240501T220000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DTSTAMP:20240428T105747Z
+UID:382icrjbp5of6cnpil1l2vemhm@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/tem-uoso-oon
+CREATED:20240428T074715Z
+DESCRIPTION:সেমিস্টার ২ - উস্তাদ আবু খুরশিদ নুমান\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet:
+  https://meet.google.com/tem-uoso-oon\nAuthor: IlumunNafi.\n-::~:~::~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240428T074741Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:হাম্বলি ফিক্বহ ২
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Dhaka:20240502T210000
+DTEND;TZID=Asia/Dhaka:20240502T220000
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=TH,FR
+DTSTAMP:20240428T105747Z
+UID:6bt0vrvdks6dlg8c7cutik0d23@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/tem-uoso-oon
+CREATED:20240428T074905Z
+DESCRIPTION:সেমিস্টার ২ - উস্তাদ আসলামূদ্দিন\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: http
+ s://meet.google.com/tem-uoso-oon\nAuthor: IlumunNafi.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240428T074905Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:আরবি ভাষা শিক্ষা ২
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Dhaka:20240428T190000
+DTEND;TZID=Asia/Dhaka:20240428T200000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+DTSTAMP:20240428T105747Z
+UID:6efqqd1om941lmbm3n3ogqnusq@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/tem-uoso-oon
+CREATED:20240428T074136Z
+DESCRIPTION:সেমিস্টার ২ - উস্তাদ মাইনুল ইসলাম তৌফিক\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Mee
+ t: https://meet.google.com/tem-uoso-oon\nAuthor: IlumunNafi.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240428T091846Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:নাজেরা ও কুরআন (ভাই)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
