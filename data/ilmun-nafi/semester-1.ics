@@ -141,4 +141,21 @@ STATUS:CONFIRMED
 SUMMARY:তাজউইদ ও নাজেরা (বোন)
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Dhaka:20240503T190000
+DTEND;TZID=Asia/Dhaka:20240503T200000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+DTSTAMP:20240428T105747Z
+UID:3g2nhup1d4nhuedarcvafk4vjm@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/xmg-qdpw-ytx
+CREATED:20240428T093251Z
+DESCRIPTION:উস্তাদ ফজলে রাব্বি\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/xmg-qdpw-ytx\nAuthor: IlumunNafi\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240428T093251Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:দাওয়াহ
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
